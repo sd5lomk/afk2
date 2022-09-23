@@ -1,0 +1,6 @@
+{
+	"ip":"BendCraft1234.aternos.me",
+	"port": "62816",
+	"name": "afkbot1",
+	"auto-night-skip":"true"
+}
